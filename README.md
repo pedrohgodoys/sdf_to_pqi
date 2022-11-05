@@ -1,6 +1,6 @@
 # MoNA to PQI Library Converter (M2PQI)
 
-[Progenesis™ QI v2.4 (PQI, Waters Corporation™ © Nonlinear Dynamics)](https://www.nonlinear.com/progenesis/qi/v2.4/fraq/) is a bioinformatic/chemometric tool that processes raw data from high-resolution Mass Spectrometry (MS). It facilitates the identification workflow for Metabolomics experiments using molecule libraries with Precursor's structure (structure-data file, _.sdf_) and its Fragments (main spectra profile, _.msp_) for _features_ annotation (identification).
+[Progenesis™ QI v2.4](https://www.nonlinear.com/progenesis/qi/v2.4/fraq/) (PQI, Waters Corporation™ © Nonlinear Dynamics) is a bioinformatic/chemometric tool that processes raw data from high-resolution Mass Spectrometry (MS). It facilitates the identification workflow for Metabolomics experiments using molecule libraries with Precursor's structure (structure-data file, _.sdf_) and its Fragments (main spectra profile, _.msp_) for _features_ annotation (identification).
 
 PQI has several ways to search for molecule matches, using mainly internal molecule libraries but also, not officially, external libraries. The main spectra repository is the [MassBank of North America (MoNA)](https://mona.fiehnlab.ucdavis.edu/), which considerably increases the number and quality of metabole identification. 
 
