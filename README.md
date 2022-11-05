@@ -1,4 +1,6 @@
-# MoNA to PQI Library Converter (M2PQI)
+# M2PQI (_MoNA to PQI Library Converter_)
+
+## Progenesis QI and MoNA incompatibility
 
 [Progenesis™ QI v2.4](https://www.nonlinear.com/progenesis/qi/v2.4/fraq/) (PQI, Waters Corporation™ © Nonlinear Dynamics) is a bioinformatic/chemometric tool that processes raw data from high-resolution Mass Spectrometry (MS). It facilitates the identification workflow for Metabolomics experiments using molecule libraries with Precursor's structure (structure-data file, _.sdf_) and its Fragments (main spectra profile, _.msp_) for _features_ annotation (identification).
 
@@ -6,9 +8,11 @@ PQI has several ways to search for molecule matches, using mainly internal molec
 
 Due to its non-official nature, a lot of problems have been shown, the main reason being the differences in the formatting of MoNA's _.sdf_ file and internal _.sdf_ files used by PQI. Also, this formatting problem causes failure in the crosstalk between _.sdf_ and _.msp_ files, essential to relate the Precursor Ion with its Fragments for identifying unknown metabolites.
 
+## Solution
+
 We developed a console application, names _M2PQI_ (MoNA to PQI Library Converter) to solve these formatting problems, enabling compatibility among MoNA's libraries and PQI and making them readily available to increase PQI's capabilities.
 
-## Instructions
+### Instructions
 1. Go to [MoNA](https://mona.fiehnlab.ucdavis.edu/downloads), click on _"Download"_ on the right side, then on "SDF" (_structure data file_) to download a _.zip_ file corresponding to the library you want to use.
 2. Extract the _.zip_ file.
 3. Inside de **MoNA to PQI Converter** Folder, open the _.sdf_ file and save it as _"input.txt"_.
@@ -20,4 +24,4 @@ We developed a console application, names _M2PQI_ (MoNA to PQI Library Converter
 
 ____
 
-Citation: 
+> Citation: Yet to be published.
