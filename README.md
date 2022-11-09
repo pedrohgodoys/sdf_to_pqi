@@ -23,7 +23,7 @@ We developed a console application, names _M2PQI_ (MoNA to PQI Library Converter
 9. Every time a library will ber converted, should be only one _input.txt_ file inside the folder. We recommend you move the _output_ files from there.
 
 #### Main Authors:
-_**Project:** [Gustavo H.B. Duarte](https://github.com/GustavoHBDuarte/) & [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/)_ / _**Code:**_ [Ivan G. M. dos Reis](https://github.com/igmdr/).
+_**Project:** [Gustavo H.B. Duarte](https://github.com/GustavoHBDuarte/) & [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/)_ **/** _**Code:**_ [Ivan G. M. dos Reis](https://github.com/igmdr/).
 ____
 
 > Citation: Yet to be published.
