@@ -21,10 +21,8 @@ We developed a console application, names _M2PQI_ (MoNA to PQI Library Converter
 6. Converted files will be generated as _"output.sdf"_ and _"output.msp"_.
 7. **They are read to be used in Progenesis QI Metascope identification search.**
 9. Every time a library will ber converted, should be only one _input.txt_ file inside the folder. We recommend you move the _output_ files from there.
-
-#### Main Authors:
-- _**Code:**_ [Ivan G. M. dos Reis](https://github.com/igmdr/)
-- _**Project:** [Gustavo H.B. Duarte](https://github.com/GustavoHBDuarte/)  /  [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/)_ 
 ____
 
 > Citation: Yet to be published.
+
+**Main Authors:** [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/) (_project_), [Gustavo H.B. Duarte](https://github.com/GustavoHBDuarte/) (_project_) and [Ivan G. M. dos Reis](https://github.com/igmdr/) (_code_).
