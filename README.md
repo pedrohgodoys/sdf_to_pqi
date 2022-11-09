@@ -25,4 +25,4 @@ ____
 
 > Citation: Yet to be published.
 
-**Main Authors:** [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/) (_project_), [Gustavo H.B. Duarte](https://github.com/GustavoHBDuarte/) (_project_) and [Ivan G. M. dos Reis](https://github.com/igmdr/) (_code_).
+**Main Authors:** [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/) (_project_), [Gustavo H. B. Duarte](https://github.com/GustavoHBDuarte/) (_project_) and [Ivan G. M. dos Reis](https://github.com/igmdr/) (_code_).
