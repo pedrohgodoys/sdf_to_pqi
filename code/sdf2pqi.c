@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "m2pqi.h"
+#include "sdf2pqi.h"
 
 int contarLinhas(FILE *fpi){
     int cont = 0;
@@ -39,10 +39,10 @@ void carregarDados(FILE *fpi,FILE *sdf,FILE *msp) {
     char aux[999],*p,strCopia[999];
     int flag = 0, np = 0, numeroLinhas = contarLinhas(lerArquivo(fpi)), cont = 0;
     while(fgets(aux, sizeof(aux), fpi)) {
-        /* note como não precisamos especificar uma nova linha, o fgets já a inclui na string linha quando a encontra */
+        /* note como nÃ£o precisamos especificar uma nova linha, o fgets jÃ¡ a inclui na string linha quando a encontra */
         cont++;
 //        system("cls");
-        printf("Gravando arquivo SDF e MSP: %d total de linhas / %d linhas processadas\n",numeroLinhas,cont);
+        printf("Writing SDF and MSP files: %d total lines / %d proccessed lines\n",numeroLinhas,cont);
         if(strncmp(aux,">  <NAME>",9) == 0){
             fprintf(sdf,"%s\n","M  END");
             fprintf(msp,"\n%s\n","Name: ");
