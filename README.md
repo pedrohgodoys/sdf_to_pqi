@@ -1,4 +1,4 @@
-# SDF2PQI (_SDF to PQI Converter_)
+# SDF2PQI (_SDF to PQI Library Converter_)
 
 ## Progenesis QI and MoNA incompatibility
 
