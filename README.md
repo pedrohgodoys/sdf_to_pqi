@@ -13,7 +13,7 @@ Due to its non-official nature, a lot of problems have been shown, the main reas
 We developed a console application, names _SDF2PQI_ (SDF to PQI Library Converter) to solve these formatting problems, enabling compatibility among SDF libraries and PQI and making them readily available to increase PQI's capabilities.
 
 ### Instructions
-1. Go to [MoNA](https://mona.fiehnlab.ucdavis.edu/downloads), click on _"Download"_ on the right side, then on "SDF" (_structure data file_) to download a _.zip_ file corresponding to the library you want to use.
+1. Go to the SDF download page ([HMDB](https://hmdb.ca/downloads); [Lipid Maps](https://lipidmaps.org/databases/lmsd/download); [MoNA](https://mona.fiehnlab.ucdavis.edu/downloads)) and download the "SDF" (_structure-data file_). It will be downloaded as a _.zip_ file, corresponding to the library you prefered.
 2. Extract the _.zip_ file.
 3. Inside de **SDF to PQI Converter** Folder, open the _.sdf_ file and save it as _"input.txt"_.
 4. Click on the "sdf_to_pqi.exe" executable (_.exe_) file.
