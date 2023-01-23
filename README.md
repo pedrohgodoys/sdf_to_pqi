@@ -16,7 +16,7 @@ We developed a console application, names _SDF2PQI_ (SDF to PQI Library Converte
 1. Go to [MoNA](https://mona.fiehnlab.ucdavis.edu/downloads), click on _"Download"_ on the right side, then on "SDF" (_structure data file_) to download a _.zip_ file corresponding to the library you want to use.
 2. Extract the _.zip_ file.
 3. Inside de **SDF to PQI Converter** Folder, open the _.sdf_ file and save it as _"input.txt"_.
-4. Click on the "mona_to_pqi.exe" executable (_.exe_) file.
+4. Click on the "sdf_to_pqi.exe" executable (_.exe_) file.
 5. A command prompt will show up. **Don't close it.** The file's lines will be scanned and corrected. Wait until the conversion process is done.
 6. Converted files will be generated as _"output.sdf"_ and _"output.msp"_.
 7. **They are read to be used in Progenesis QI Metascope identification search.**
