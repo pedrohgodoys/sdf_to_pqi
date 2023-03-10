@@ -23,6 +23,8 @@ We developed a console application, names _SDF2PQI_ (SDF to PQI Library Converte
 9. Every time a library will ber converted, should be only one _input.txt_ file inside the folder. We recommend you move the _output_ files from there.
 ____
 
-> Citation: Yet to be published.
+> Citation: Sanches _et al._, Fitting Structure-Data Files (.SDF) Libraries to Progenesis QI Identification Searches. _J. Braz. Chem. Soc. 2023_.
+>
+> DOI: [10.21577/0103-5053.20230016](https://dx.doi.org/10.21577/0103-5053.20230016).
 
-**Main Authors:** [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/) (_project_), [Gustavo H. B. Duarte](https://github.com/GustavoHBDuarte/) (_project_) and [Ivan G. M. dos Reis](https://github.com/igmdr/) (_code_).
+**Main Authors:** [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/), [Ivan G. M. dos Reis](https://github.com/igmdr/) and [Gustavo H. B. Duarte](https://github.com/GustavoHBDuarte/).
