@@ -1,5 +1,7 @@
 # SDF2PQI (_SDF to PQI Library Converter_)
 
+> _In production._
+
 ## Progenesis QI and Structure-Data files (SDF) incompatibility
 
 [Progenesis™ QI v2.4](https://www.nonlinear.com/progenesis/qi/v2.4/fraq/) (PQI, Waters Corporation™ © Nonlinear Dynamics) is a bioinformatic/chemometric tool that processes raw data from high-resolution Mass Spectrometry (MS). It facilitates the identification workflow for Metabolomics experiments using molecule libraries with Precursor's structure (structure-data file, _.sdf_) and its Fragments (main spectra profile, _.msp_) for _features_ annotation (identification).
