@@ -29,4 +29,4 @@ ____
 >
 > DOI: [10.21577/0103-5053.20230016](https://dx.doi.org/10.21577/0103-5053.20230016).
 
-**Main Authors:** [Pedro H. Godoy Sanches](https://github.com/pedrohgodoys/), [Ivan G. M. dos Reis](https://github.com/igmdr/) and [Gustavo H. B. Duarte](https://github.com/GustavoHBDuarte/).
+**Main Authors:** Pedro H. Godoy Sanches, Ivan G. M. dos Reis and Gustavo H. B. Duarte.
